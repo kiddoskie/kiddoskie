@@ -3,7 +3,7 @@ I’m an ICT Student at Tshwane University of Technology (Emalahleni Campus) and
 
 Whether I'm writing robust enterprise backend logic in Java, architecting database schemas, or building accessible solutions for communities that need them most, I focus on writing clean, scalable, and purposeful code.
 
-When I'm not in the IDE, you'll find me contributing to campus leadership through the SGLD Top Senior programme, collaborating with my dev team, or looping a solid slow R&B playlist to stay in the zone.
+When I'm not in the IDE, you'll find me contributing to campus leadership through the SGLD Top Senior and Volunteers programme, collaborating with my dev team, or looping a solid slow R&B playlist to stay in the zone.
 
 🛠️ Tech Stack & Toolkit
 Languages & Backend: Java (EE, Servlets, EJB), Node.js, SQL, PL/SQL
